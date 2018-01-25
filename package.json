@@ -1,6 +1,6 @@
 {
   "name": "xp-countdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A countdown library",
   "main": "dist/index.js",
   "repository": "git@github.com:excaliburhan/xp-countdown.git",
